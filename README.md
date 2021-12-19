@@ -1,4 +1,4 @@
-### About kadraman aka Kevin A. Lee
+### About Kevin A. Lee aka _kadraman_
 
  - Ambitious nondeterministic coder
  - Intermittent author
