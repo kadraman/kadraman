@@ -3,7 +3,7 @@
  - Lightweight coder
  - Intermittent author
  - DevSecOps specialist
- - Retrogamer
+ - Retrogame coder/player
 
 ![kadraman's github stats](https://github-readme-stats.vercel.app/api?username=kadraman&count_private=true&show_icons=true&theme=algolia)
 
