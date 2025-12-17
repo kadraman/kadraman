@@ -4,6 +4,7 @@
  - Intermittent author
  - DevSecOps specialist
  - Retrogamer
+ - Chiptunes musician
 
 ![kadraman's github stats](https://github-readme-stats.vercel.app/api?username=kadraman&count_private=true&show_icons=true&theme=algolia)
 
