@@ -24,9 +24,9 @@ I prefer lightweight code, minimal abstractions, and workflows that remain debug
 
 ---
 
-https://github-readme-stats.vercel.app/api?username=kadraman&count_private=true&show_icons=true&theme=algolia
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kadraman&count_private=true&show_icons=true&theme=algolia)
 
 <p align="center">
   Visitor count<br>
-  https://profile-counter.glitch.me/kadraman/count.svg
+  <img src="https://profile-counter.glitch.me/kadraman/count.svg" />
 </p>
